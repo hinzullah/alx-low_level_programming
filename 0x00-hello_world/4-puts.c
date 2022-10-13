@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
  * main - Entry
+ * Description : Code description
  * Return : Always 0
  */
 int main(void)
