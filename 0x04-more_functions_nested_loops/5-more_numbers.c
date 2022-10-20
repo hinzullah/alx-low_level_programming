@@ -1,11 +1,11 @@
 #include"main.h"
 
 /**
- * more_numbers - print 0 - 14 ten times and youcan only use _putchar three tim
+ * more_numbers - print 0 - 14 ten times and youcan only use _putchar three x
+ *
  * Return: Always 0 (Success)
  */
 void more_numbers(void)
-
 {
 	int num, row, count;
 
